@@ -1,0 +1,11 @@
+body {
+    background-color: aquamarine;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+#hr1 {
+    width: 500px;
+    height: 20px;
+}
